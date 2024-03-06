@@ -1,0 +1,8 @@
+{
+  "dbUrl" : "jdbc:h2:./test",
+  "maxProjectsClientPath" : "sql/find_max_projects_client.sql",
+  "longestProject" : "sql/find_longest_project.sql",
+  "maxSalaryWorkers" : "sql/find_max_salary_worker.sql",
+  "youngestEldestWorkers" : "sql/find_youngest_eldest_workers.sql",
+  "projectPrices" : "sql/print_project_prices.sql"
+}
